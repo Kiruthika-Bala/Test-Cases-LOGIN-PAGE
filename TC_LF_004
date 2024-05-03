@@ -1,0 +1,10 @@
+TC_LF_004: Validate 'Forgotten Password' link is available in the Login page and is working
+
+Test Steps:
+
+Click on 'Login' option (ER-1)
+Click on 'Forgotten Password' link (ER-2)
+
+ER:
+1. User should be taken to 'Login' page and 'Forgotten Password' link should be displayed in the page
+2. User should be taken to 'Forgotten Password' page
