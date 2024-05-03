@@ -2,8 +2,8 @@ TC_LF_003: Validate logging into the Application using valid email address and i
 Test Steps:
 
 Click on 'Login' option 
-Enter valid email address into the 'E-Mail Address' field - <Refer Test Data>
-Enter invalid password into the 'Password' field - <Refer Test Data>
+Enter valid email address into the 'E-Mail Address' field 
+Enter invalid password into the 'Password' field
 Click on 'Login' button (Validate ER-1)
 
 ER1: Warning message with the text 'Warning: No match for E-Mail Address and/or Password.' should be displayed
